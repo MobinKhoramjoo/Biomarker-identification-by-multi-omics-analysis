@@ -5,7 +5,7 @@ These analyses aim to identify correlations between biomarkers and clinical vari
 
 Repository Structure
 Data Preprocessing and Statistical Analysis (R)
-Directory: 
+Directory: Biomarker-identification-by-multi-omics-analysis/Data Preprocessing- Statistical Data Analysis- clinical correlation identification.R
 This section focuses on the initial steps of data preparation and statistical analysis using R. The goal is to clean and preprocess raw data and identify correlations between biomarkers and clinical variables.
 
 Clustering Analysis (Python)
