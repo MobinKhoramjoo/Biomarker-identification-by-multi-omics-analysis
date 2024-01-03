@@ -1,5 +1,5 @@
 **About:**
-  The code in this repository was used to generate the results presented in the article _Sequential multi-omics analysis identifies clinical phenotypes and predictive biomarkers for long COVID_ in _Cell Reports Medicine_ and _STAR protocol_.
+  The code in this repository was used to generate the results presented in the article _Sequential multi-omics analysis identifies clinical phenotypes and predictive biomarkers for long COVID_ in _Cell Reports Medicine_ and _STAR protocol_. (https://doi.org/10.1016/j.xcrm.2023.101254)
 
 **Background:**
   These analyses aim to identify correlations between biomarkers and clinical variables, cluster patients based on their multi-omics profile, and find predictive biomarkers.
